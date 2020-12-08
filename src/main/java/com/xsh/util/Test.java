@@ -10,6 +10,6 @@ import java.util.List;
 public class Test {
     public static void main(String[] args) {
         List<String> a = new ArrayList<String>();
-        a.forEach(p-> System.out.println(p));
+        //a.forEach(p-> System.out.println(p));
     }
 }
